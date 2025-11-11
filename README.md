@@ -30,7 +30,7 @@ Sebagai seorang Business Intelligence Analyst PT Sejahtera Bersama, saya melakuk
 Relasi antar tabel:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/main/DashboardFinal.png" width="800" alt="Dashboard PT Sejahtera Bersama"/>
+  <img src="https://github.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/blob/main/relationship.png" width="800" alt="Dashboard PT Sejahtera Bersama"/>
 </p>
 
 ### Soal 3 – Pembuatan Tabel Master
@@ -62,8 +62,9 @@ Relasi antar tabel:
 
 Berikut tampilan visualisasi penjualan PT Sejahtera Bersama menggunakan **Google Looker Studio** 👇  
 
-![Dashboard Final](https://raw.githubusercontent.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/main/DashboardFinal.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/main/DashboardFinal.png" width="800" alt="Dashboard PT Sejahtera Bersama"/>
+</p>
 📎 **[Lihat Dashboard Lengkap di Looker Studio](https://lookerstudio.google.com/reporting/be43229b-8cfd-4596-9ecd-6754e34f8467)**
 
 ### Soal 5 – Insight dan Rekomendasi BI Analyst
