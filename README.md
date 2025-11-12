@@ -45,7 +45,7 @@ Relasi antar tabel:
 - CategoryName
 - TotalSales
 
-📂 [Lihat File Master](https://raw.githubusercontent.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/main/TabelJoined.png)
+📂 [Lihat File Master](https://github.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/blob/main/DashboardFinal.png)
 
 ### Soal 4 – Dashboard Looker Studio
 
