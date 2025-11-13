@@ -15,7 +15,7 @@ Sebagai seorang Business Intelligence Analyst PT Sejahtera Bersama, saya melakuk
 ## Dataset
 
 ### 🔗 Data Penjualan PT Sejahtera Bersama
-https://github.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/blob/main/dataset_task%2B5.xlsx
+https://github.com/anasafiraa/Final-Project-Sales-Performances-Dashboard/blob/main/dataset_task%2B5.xlsx
 
 ## Tahapan Pengerjaan
 ### Soal 1 – Penentuan Primary Key
@@ -30,7 +30,7 @@ https://github.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/blob/main/
 Relasi antar tabel:
 
 <p align="center">
-  <img src="https://github.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/blob/main/relationship.png" width="800" alt="Dashboard PT Sejahtera Bersama"/>
+  <img src="https://github.com/anasafiraa/Final-Project-Sales-Performances-Dashboard/blob/main/relationship.png" width="800" alt="Dashboard PT Sejahtera Bersama"/>
 </p>
 
 ### Soal 3 – Pembuatan Tabel Master
@@ -45,7 +45,7 @@ Relasi antar tabel:
 - CategoryName
 - TotalSales
 
-📂 [Lihat File Master](https://github.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/blob/main/DashboardFinal.png)
+📂 [Lihat File Master](https://github.com/anasafiraa/Final-Project-Sales-Performances-Dashboard/blob/main/DashboardFinal.png)
 
 ### Soal 4 – Dashboard Looker Studio
 
@@ -63,7 +63,7 @@ Relasi antar tabel:
 Berikut tampilan visualisasi penjualan PT Sejahtera Bersama menggunakan **Google Looker Studio** 👇  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/main/DashboardFinal.png" width="800" alt="Dashboard PT Sejahtera Bersama"/>
+  <img src="https://raw.githubusercontent.com/anasafiraa/Final-Project-Sales-Performances-Dashboard/main/DashboardFinal.png" width="800" alt="Dashboard PT Sejahtera Bersama"/>
 </p>
 📎 **[Lihat Dashboard Lengkap di Looker Studio](https://lookerstudio.google.com/reporting/be43229b-8cfd-4596-9ecd-6754e34f8467)**
 
